@@ -1,0 +1,24 @@
+# Maven build files
+target/
+*.class
+
+# Eclipse / STS files
+.project
+.classpath
+.settings/
+.springBeans
+.sts4-cache/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
